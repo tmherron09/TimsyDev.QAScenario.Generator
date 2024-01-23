@@ -1,0 +1,24 @@
+{
+	"Resource": null,
+	"Path": null,
+	"HttpMethod": null,
+	"Headers": null,
+	"MultiValueHeaders": null,
+	"QueryStringParameters": {
+		"QueryName": "QueryParam Name",
+		"IntValue": "500"
+	},
+	"MultiValueQueryStringParameters": {
+		"QueryFood": [
+			"Cheese",
+			"Pizza",
+			"Chocolate",
+			"Bacon"
+		]
+	},
+	"PathParameters": null,
+	"StageVariables": null,
+	"RequestContext": null,
+	"Body": "{\"Name\":\"Example Request Item\",\"Value\":2023,\"Colors\":[\"Orange\",\"Yellow\",\"Blue\",\"Green\"],\"IsRequested\":false,\"InnerItem\":{\"Location\":\"I\\u0027m The Inside Example.\",\"InnerValue\":9223372036854775807,\"InnerColors\":[\"Red\",\"Purple\",\"Pink\",\"Teal\"]}}",
+	"IsBase64Encoded": false
+}
